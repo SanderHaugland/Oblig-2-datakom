@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/sahau/CLionProjects/Obligdatakom/cmake-build-debug",
+  "command": "C:\\Users\\sahau\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\HTTP_server.dir\\HTTP_server.c.obj -c C:\\Users\\sahau\\CLionProjects\\Obligdatakom\\cmake-build-debug\\HTTP_server.c",
+  "file": "C:/Users/sahau/CLionProjects/Obligdatakom/cmake-build-debug/HTTP_server.c",
+  "output": "C:/Users/sahau/CLionProjects/Obligdatakom/cmake-build-debug/CMakeFiles/HTTP_server.dir/HTTP_server.c.obj"
+}
+]

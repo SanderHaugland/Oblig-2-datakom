@@ -1,0 +1,3 @@
+C:/Users/sahau/CLionProjects/Obligdatakom/cmake-build-debug/CMakeFiles/HTTP_server.dir
+C:/Users/sahau/CLionProjects/Obligdatakom/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sahau/CLionProjects/Obligdatakom/cmake-build-debug/CMakeFiles/rebuild_cache.dir
